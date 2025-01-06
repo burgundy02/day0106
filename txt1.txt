@@ -1,3 +1,9 @@
-// 메인에서 작성
+<<<<<<< HEAD
+// 메인에서 작업한 파일
 12345
-aaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaa
+
+// 서브1에서 작업한 파일
+54321
+bbbbbbbbbbbbbbb
+>>>>>>> sub01
